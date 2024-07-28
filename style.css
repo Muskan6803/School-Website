@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+    background-color: rgb(200, 223, 244);
+
+}
+
+.carousel-item img {
+    opacity: 0.9;
+}
